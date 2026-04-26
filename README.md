@@ -1,1 +1,2 @@
 # RepoBoard
+RepoBoard is a desktop application that helps developers organize and manage their GitHub repositories in a more structured and visual way. It combines repository organization with a built-in Kanban board for lightweight project planning tied to local repositories. Unlike GitHub’s repository list, RepoBoard focuses on grouping, prioritizing, and working across projects, while keeping planning close to the code by storing board data locally within each repository.
